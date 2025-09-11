@@ -13,3 +13,9 @@ let stringNumber = String(somenumber);
 console.log(stringNumber);
 console.log( typeof stringNumber);
 
+let somenum = 21
+let stringnum = String(somenum);
+console.log(somenum);
+console.log( typeof stringnum);
+
+

@@ -1,15 +1,10 @@
 const name = "Aman"
-const repcount = 50
+const repcount = 50 
 
 console.log(name+repcount+ "value");
 
 console.log(`Hello my name is  ${name} and my repo count is ${repcount}`);
 const gameName = new String('amanic')
-
-// console.log(gameName[0]);
-// console.log(gameName.length);
-// console.log(gameName.toUpperCase());
-// console.log(gameName.charAt(3));
 
 const newString = gameName.substring(0,2);
 console.log(newString);

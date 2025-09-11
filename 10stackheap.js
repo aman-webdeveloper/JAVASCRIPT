@@ -1,12 +1,12 @@
 let myinstaname= "amnkumar@gmail.com"
 
 let anothername = myinstaname
-anothername = "webhorizon"
+anothername = "webhorizon" 
 
 console.log(myinstaname)
 console.log(anothername)
 
-let firstuser = {
+let firstuser = { 
     email: "userone@gmail.com",
     upi : "userone@121"
 }
